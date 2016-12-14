@@ -1,0 +1,7 @@
+Copyright (C) 1999-2016 ${owner} <${email}>.
+All Rights Reserved.
+
+File: ${file.name}
+
+Author: ${owner}
+
