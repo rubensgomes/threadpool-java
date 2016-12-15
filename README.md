@@ -1,8 +1,6 @@
-# misc-java-projs/threadpool
+# threadpool
 
-The threadpool is a personal programming project developed by 
-[Rubens](http://www.rubens-gomes.com) to be used as part of 
-another project: HTTP Server.
+A thread pool implementation done in Java. This is a personal project developed by [Rubens](http://www.rubens-gomes.com).
 
 An equivalent threadpool implementation done in C++ can be found at:
 
@@ -18,20 +16,21 @@ An equivalent threadpool implementation done in C++ can be found at:
 ```
     https://github.com/rubensgomes/threadpool.git
 ```
-## Build and Test
+## Build, Test and Deploy
 
 - To set up an eclipse project:
 ```
-    $ mvn -U eclipse:eclipse
+    mvn -U eclipse:eclipse
 ```
 - To run a java build:
 ```
-    $ mvn -U install
+    mvn -U install
 ```
 - To run tests:
 ```
-    $ mvn test
+    mvn test
 ```
-
-
-
+- To deploy build:
+```
+    mvn deploy
+```
