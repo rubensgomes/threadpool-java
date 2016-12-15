@@ -20,7 +20,7 @@ import com.softlagos.util.SystemProperties;
  * launched to run the given task.
  * <p>
  * This class should be instantiated as follows:
- * <p>
+ * </p>
  * <pre>
  * OnDemandTaskThread task_thread =
  *   new OnDemandTaskThread(someTask);

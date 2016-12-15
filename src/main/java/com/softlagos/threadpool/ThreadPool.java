@@ -19,7 +19,7 @@ import com.softlagos.util.SystemProperties;
  *
  * In the class, a number of N threads are created to
  * perform a number of M tasks, organized in a FIFO
- * (First In-First out) queue. Typically, N << M. As
+ * (First In-First out) queue. Typically, N lt;lt; M. As
  * soon as a thread completes its task, it will request
  * the next task from the queue until all tasks have been
  * completed. The thread can then terminate, or
@@ -62,7 +62,7 @@ public final class ThreadPool
      * task to the task FIFO queue.  This task will
      * be executed by a free thread in the thread pool.
      *
-     * @param a task to be run by a thread in the pool.
+     * @param task a task to be run by a thread in the pool.
      */
     public void pushTask(final Task task)
     {
