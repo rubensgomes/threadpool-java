@@ -1,10 +1,10 @@
-# threadpool
+# Justification for this project
 
-A thread pool implementation done in Java. This is a personal project developed by [Rubens](http://www.rubens-gomes.com).
+A thread pool implementation done in Java. This is a personal project that I wrote
+a learning and fun exercise back in 1999. An equivalent threadpool implementation done
+in C++ can be found at:
 
-An equivalent threadpool implementation done in C++ can be found at:
-
-[C++ threadpool] (https://github.com/rubensgomes/misc-cpp-projs/tree/master/threadpool)
+[threadpool-cpp] (https://github.com/rubensgomes/threadpool-cpp) 
 
 ## Installation
 
