@@ -1,5 +1,7 @@
 # Justification for this project
 
+NOTE: This code is not fully tested, and should be considered under development code.
+
 A thread pool implementation done in Java. This is a personal project that I wrote
 a learning and fun exercise back in 1999. An equivalent threadpool implementation done
 in C++ can be found at:
