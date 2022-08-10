@@ -20,8 +20,8 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!--  Library Versions -->
-    <junit.version>4.12</junit.version>
-    <log4j.version>2.5</log4j.version>
+    <junit.version>4.13.2</junit.version>
+    <log4j.version>2.18.0</log4j.version>
     <shared.version>1.0</shared.version>
     <!--  Plugin Versions -->
     <findbugs-maven-plugin.version>3.0.3</findbugs-maven-plugin.version>
